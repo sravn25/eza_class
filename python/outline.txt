@@ -1,0 +1,12 @@
+1. variables 
+  - integers
+  - strings
+  - boolean
+
+2. If
+3. For loops, while loops
+4. def functions
+
+# Wordcount
+1.
+
